@@ -1,4 +1,4 @@
-# SpringBoot-Mybartis-SQLServer
+# SpringBoot-Mybatis-SQLServer
 
 
 > - Backend Framework: SpringBoot
